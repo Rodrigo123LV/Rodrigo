@@ -1,0 +1,10 @@
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\bin\Debug\Form1.exe.config
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\bin\Debug\Form1.exe
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\bin\Debug\Form1.pdb
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.exe
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.pdb
+C:\Users\Reimanis\Documents\Rodrigo\IDk\Form1\obj\Debug\Form1.Form1.resources
